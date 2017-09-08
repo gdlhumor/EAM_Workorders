@@ -4,5 +4,10 @@
   "defaultLayout": "phone-portrait",
   "previewToken": "df946a65",
   "uiCommonVersion": "5.1.2",
-  "creatorId": "gdlhumor"
+  "creatorId": "gdlhumor",
+  "id": "eam_workorders",
+  "previewImageURL": "/previews/df946a65-eam_workorders/app/blank.png",
+  "isVersioned": true,
+  "githubRepo": "https://github.com/gdlhumor/EAM_Workorders",
+  "creatorName": "Luis Humberto Mora"
 }
