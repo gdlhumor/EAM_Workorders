@@ -1,0 +1,17 @@
+{
+  "remoteAppConfig": {
+    "loginType": "process",
+    "cmd": "node",
+    "args": [
+      "<%= transformAppsDir %>/eam_workorders/server/start.js",
+      "--sessionID",
+      ":sessionID"
+    ]
+  },
+  "appData": {
+    "appType": "local",
+    "appZip": "<%= staticStorage %>eam_workorders/client.zip",
+    "sessionCheck": false,
+    "smartuxApp": "<%= staticStorage %>eam_workorders/smartuxApp.json"
+  }
+}
