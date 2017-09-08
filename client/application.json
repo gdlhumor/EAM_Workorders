@@ -1,0 +1,8 @@
+{
+  "name": "eam_workorders",
+  "description": "EAM (former Data Stream) Work Orders App Tool",
+  "defaultLayout": "phone-portrait",
+  "previewToken": "df946a65",
+  "uiCommonVersion": "5.1.2",
+  "creatorId": "gdlhumor"
+}
